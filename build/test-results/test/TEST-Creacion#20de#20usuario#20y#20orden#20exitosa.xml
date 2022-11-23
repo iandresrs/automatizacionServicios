@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Creacion de usuario y orden exitosa" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-23T21:14:20" hostname="SQABOG-SQA4115" time="3.482">
+  <properties/>
+  <testcase name="Creacion de orden exitosa" classname="Creacion de usuario y orden exitosa" time="3.482"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
